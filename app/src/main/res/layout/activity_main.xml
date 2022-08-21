@@ -49,6 +49,12 @@
                 android:layout_height="wrap_content"
                 android:text="@string/simpan"/>
 
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="HAI"
+                android:textSize="20sp"/>
+
 
         </LinearLayout>
 
